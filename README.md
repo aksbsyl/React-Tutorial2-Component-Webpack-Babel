@@ -1,4 +1,4 @@
-### React-Component-Webpack-Babel
+# React-Component-Webpack-Babel
   
 1) Babel : Internal compiler inside React that converts E6(2016) to E5(2009 features)
 2) webpack: While making projects we have lots of javascript files. Use of webpack is to bundle our files to bundle.js or bundle.css and so on
